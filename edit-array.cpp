@@ -23,7 +23,7 @@ int main() {
     do {
         std::cout << "\n"; //print the array 
 
-        for (i = 0; i < 10; i++) { //get i and v from the user
+        for (i = 0; i < 10; i++) { //get i and v from the user 
             std::cout << myData[i] << " "; //if i is good, update the array at index i
         }
 //user inputs for index and value
